@@ -1,6 +1,3 @@
-import 'request';
-import 'request-promise';
-      
 var requestPromise = require('request-promise');
 
 var user = 'irtsa';
