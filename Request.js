@@ -1,4 +1,5 @@
-import request
+import request;
+import 'request-promise';
       
 var requestPromise = require('request-promise');
 
