@@ -1,4 +1,4 @@
-import npm
+import request
       
 var requestPromise = require('request-promise');
 
